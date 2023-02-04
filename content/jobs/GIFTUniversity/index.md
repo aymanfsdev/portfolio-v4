@@ -1,8 +1,8 @@
 ---
 date: '2008-02-29'
-title: 'Bachelor's Degree'
+title: 'Bachelor\'s Degree'
 company: 'GIFT University'
-location: ''
+location: 'Gujranwala'
 range: 'Febrary 2004 - Febrary 2008'
 url: ''
 ---
